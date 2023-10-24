@@ -1,0 +1,115 @@
+{
+    "movzu": "Ümumi suallar",
+    "sual": [
+        { 
+            "s" : "Hansı heyvanın qırılan sümüyü qaynamır?",
+            "c" : [
+                "İt", 
+                "At", 
+                "Pişik", 
+                "Siçan",
+                "Dəvə"
+            ],
+            "d": 1
+        }, 
+        { 
+            "s" : "İnsandan başqa digər hansı canlı zövq üçün cinsi əlaqədə olur?",
+            "c" : [
+                "Meymun", 
+                "Ayı", 
+                "Delfin", 
+                "İt",
+                "Timsah"
+            ],
+            "d": 0
+        }, 
+        { 
+            "s" : "4 ədəd dizi olan yeganə heyvan hansıdır?",
+            "c" : [
+                "Dəvə", 
+                "Zürafə", 
+                "Ayı", 
+                "Fil",
+                "İlan"
+            ],
+            "d": 4
+        }, 
+        { 
+            "s" : "Kişilərin saqqalları hansı fəsildə daha çox uzanır?",
+            "c" : [
+                "Yaz", 
+                "Yay", 
+                "Payız", 
+                "Qış",
+                "Fərqi yoxdur"
+            ],
+            "d": 4
+        }, 
+        { 
+            "s" : "Hansı heyvanın gözləri 4 ayaqlarınıda görəbiləcək şəkildədir?",
+            "c" : [
+                "Ayı", 
+                "Zürafə", 
+                "Eşşək", 
+                "Ceyran",
+                "Balıq"
+            ],
+            "d": 1
+        }, 
+        { 
+            "s" : "Hansı ölkədə heç tualet yoxdur?",
+            "c" : [
+                "Kuba", 
+                "İran", 
+                "Kanada", 
+                "Peru",
+                "Madaqasqar"
+            ],
+            "d": 3
+        }, 
+        { 
+            "s" : "Bütün iqlimlərin yaşandığı yeganə ölkə?",
+            "c" : [
+                "Kanada", 
+                "ABŞ", 
+                "Nigeriya", 
+                "Azərbaycan",
+                "Yeni Zellanda"
+            ],
+            "d": 4
+        }, 
+        { 
+            "s" : "Dünya futbol çemipanatının hamsında içtirak edən ölkə hansıdır?",
+            "c" : [
+                "Anqola", 
+                "Braziliya", 
+                "Cibuti", 
+                "Lixtenşteyn",
+                "Azərbaycan"
+            ],
+            "d": 1
+        }, 
+        { 
+            "s" : "Təyyarələrin qara qutusu hansı rəngdə olur?",
+            "c" : [
+                "Qırmızı", 
+                "Narıncı", 
+                "Sarı", 
+                "Yaşıl",
+                "Qara"
+            ],
+            "d": 1
+        }, 
+        { 
+            "s" : "Erkəkləri hamilə ola bilən yeganə canlı qrupu?",
+            "c" : [
+                "Hamam böcəyi", 
+                "Mavi balina", 
+                "Dəniz atı", 
+                "Qirxayaq",
+                "Yarasa"
+            ],
+            "d": 2
+        }
+    ]
+}
