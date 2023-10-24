@@ -1,115 +1,108 @@
 {
-    "movzu": "Ümumi suallar",
-    "sual": [
-        { 
-            "s" : "Hansı heyvanın qırılan sümüyü qaynamır?",
-            "c" : [
-                "İt", 
-                "At", 
-                "Pişik", 
-                "Siçan",
-                "Dəvə"
-            ],
-            "d": 1
-        }, 
-        { 
-            "s" : "İnsandan başqa digər hansı canlı zövq üçün cinsi əlaqədə olur?",
-            "c" : [
-                "Meymun", 
-                "Ayı", 
-                "Delfin", 
-                "İt",
-                "Timsah"
-            ],
-            "d": 0
-        }, 
-        { 
-            "s" : "4 ədəd dizi olan yeganə heyvan hansıdır?",
-            "c" : [
-                "Dəvə", 
-                "Zürafə", 
-                "Ayı", 
-                "Fil",
-                "İlan"
-            ],
-            "d": 4
-        }, 
-        { 
-            "s" : "Kişilərin saqqalları hansı fəsildə daha çox uzanır?",
-            "c" : [
-                "Yaz", 
-                "Yay", 
-                "Payız", 
-                "Qış",
-                "Fərqi yoxdur"
-            ],
-            "d": 4
-        }, 
-        { 
-            "s" : "Hansı heyvanın gözləri 4 ayaqlarınıda görəbiləcək şəkildədir?",
-            "c" : [
-                "Ayı", 
-                "Zürafə", 
-                "Eşşək", 
-                "Ceyran",
-                "Balıq"
-            ],
-            "d": 1
-        }, 
-        { 
-            "s" : "Hansı ölkədə heç tualet yoxdur?",
-            "c" : [
-                "Kuba", 
-                "İran", 
-                "Kanada", 
-                "Peru",
-                "Madaqasqar"
-            ],
-            "d": 3
-        }, 
-        { 
-            "s" : "Bütün iqlimlərin yaşandığı yeganə ölkə?",
-            "c" : [
-                "Kanada", 
-                "ABŞ", 
-                "Nigeriya", 
-                "Azərbaycan",
-                "Yeni Zellanda"
-            ],
-            "d": 4
-        }, 
-        { 
-            "s" : "Dünya futbol çemipanatının hamsında içtirak edən ölkə hansıdır?",
-            "c" : [
-                "Anqola", 
-                "Braziliya", 
-                "Cibuti", 
-                "Lixtenşteyn",
-                "Azərbaycan"
-            ],
-            "d": 1
-        }, 
-        { 
-            "s" : "Təyyarələrin qara qutusu hansı rəngdə olur?",
-            "c" : [
-                "Qırmızı", 
-                "Narıncı", 
-                "Sarı", 
-                "Yaşıl",
-                "Qara"
-            ],
-            "d": 1
-        }, 
-        { 
-            "s" : "Erkəkləri hamilə ola bilən yeganə canlı qrupu?",
-            "c" : [
-                "Hamam böcəyi", 
-                "Mavi balina", 
-                "Dəniz atı", 
-                "Qirxayaq",
-                "Yarasa"
-            ],
-            "d": 2
+    "sual": "Ümumi bilik",
+    "movzu": [
+        {
+          "q": "Azərbaycanın paytaxtı hansı şəhərdir?",
+          "a": [
+            "Lənkəran",
+            "Bakı",
+            "Gəncə",
+            "Sumqayıt"
+          ],
+          "t": 1
+        },
+        {
+          "q": "Dünya üzrə ən böyük okean hansıdır?",
+          "a": [
+            "Atlantik okean",
+            "Sakit okean",
+            "Şimali okean",
+            "Hind okean"
+          ],
+          "t": 1
+        },
+        {
+          "q": "Hansı planet Güneş sisteminin ən böyük planetidir?",
+          "a": [
+            "Saturn",
+            "Yupiter",
+            "Mars",
+            "Venera"
+          ],
+          "t": 1
+        },
+        {
+          "q": "Azərbaycanın sərhədləri hansı ölkələrlə üzləşir?",
+          "a": [
+            "Gürcüstan, Ermənistan, Rusiya, Türkiyə, İran",
+            "Rusiya və İran",
+            "Rusiya və Türkiyə",
+            "Türkiyə və İran"
+          ],
+          "t": 0
+        },
+        {
+          "q": "Ən böyük qitə hansıdır?",
+          "a": [
+            "Avstraliya",
+            "Asiya",
+            "Şimali Amerika",
+            "Afrika",
+            "Antarktida"
+          ],
+          "t": 1
+        },
+        {
+          "q": "Müasir futbolun anası sayılan ölkə hansıdır?",
+          "a": [
+            "Almaniya",
+            "Birinci Böyük Britaniya",
+            "Fransa",
+            "İspaniya"
+          ],
+          "t": 0
+        },
+        {
+          "q": "Azərbaycanın hökumət formasında rənglər hansılardır?",
+          "a": [
+            "Qara və ağ",
+            "Mavi və ağ",
+            "Yaşıl və sari",
+            "Qırmızı və qara"
+          ],
+          "t": 0
+        },
+        {
+          "q": "Azərbaycanda hansı dil ən çox danışılan dildir?",
+          "a": [
+            "Türkcə",
+            "Azərbaycanca",
+            "Rusca",
+            "Farsça",
+            "Talışça"
+          ],
+          "t": 1
+        },
+        {
+          "q": "Dünya ən uzun çayı hansıdır?",
+          "a": [
+            "Mississippi çayı",
+            "Yangzi çayı",
+            "Nil çayı",
+            "Amazon çayı",
+            "Kür"
+          ],
+          "t": 3
+        },
+        {
+          "q": "İlk kompüter kim tərəfindən yaradılmışdır?",
+          "a": [
+            "Mark Zuckerberg",
+            "Bill Gates",
+            "Steve Jobs",
+            "Charles Babbage"
+          ],
+          "t": 3
         }
-    ]
+    ]  
 }
